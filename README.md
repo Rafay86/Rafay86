@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Rafay</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-- 🔭 I’m currently working on [Blog app](https://github.com/Rafay86/Blog-app)
+- 🔭 I’m currently working on [GenAI]
 
 - 🌱 I’m currently learning **Django,DSA**
 

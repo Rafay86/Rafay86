@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GenAI]
 
-- 🌱 I’m currently learning **Django,DSA**
+- 🌱 I’m currently learning **GenAI,ML,DSA**
 
 - 👯 I’m looking to collaborate on **Python web apps,ML projects**
 
